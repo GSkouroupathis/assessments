@@ -6,6 +6,7 @@ package net.peerindex.challenge.webcrawler;
  * The contains method and get method should execute in O(1) time regardless of the
  * number of key,value pairs in the store.
  */
+
 public interface KeyValueStore {
 
     /**
